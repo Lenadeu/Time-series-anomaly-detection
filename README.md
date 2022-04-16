@@ -8,3 +8,6 @@ You get access to a sample of 25 time series (10% of the data) as well as an eva
 - **eval.py**: Evaluation script
 - **metadata.csv**: contains additional data for every time series (like the anomaly places). You should not use this information during this phase.
 - **example_submission**: an example to use with eval.py
+
+
+# Three different teqniques for anomaly detection challenge were considered: SARIMA,  Clustering  and LSTM  Autoencoder.
